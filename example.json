@@ -1,0 +1,9 @@
+{
+  "arrival_per_second": 8,
+  "service_per_worker_second": 3,
+  "max_wait_seconds": 0.5,
+  "max_wait_breach_probability": 0.05,
+  "hourly_cost_per_worker": 0.04,
+  "simulation_jobs": 5000,
+  "seed": 42
+}
